@@ -1,0 +1,19 @@
+.todolist-wrapper{
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    padding-right: 10px;
+}
+
+.todo{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #B9CACE;
+    border-radius: 5px;
+    padding: 15px 10px;
+    display: flex;
+    width: 100%;
+    background-color: #C5E0E5;
+}
